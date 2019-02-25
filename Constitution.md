@@ -1,4 +1,57 @@
 # Constitution of the McGill Computer Science Undergraduate Society
+## Contents
+- [Constitution of the McGill Computer Science Undergraduate Society](#constitution-of-the-mcgill-computer-science-undergraduate-society)
+  - [Contents](#contents)
+  - [Preamble](#preamble)
+  - [Terms and Definitions](#terms-and-definitions)
+- [Part I: The Society](#part-i-the-society)
+  - [1. Name](#1-name)
+  - [2. Membership](#2-membership)
+  - [3. Purpose](#3-purpose)
+  - [4. Society Fees](#4-society-fees)
+  - [5. Rights, Privileges and Obligations of Members](#5-rights-privileges-and-obligations-of-members)
+  - [6. Finances of the CSUS](#6-finances-of-the-csus)
+  - [7. Languages of the CSUS](#7-languages-of-the-csus)
+- [Part II: Organization of the CSUS](#part-ii-organization-of-the-csus)
+  - [8. Members of the Executive Council](#8-members-of-the-executive-council)
+  - [9. Powers and Duties](#9-powers-and-duties)
+  - [10. President](#10-president)
+  - [11. Vice-President External](#11-vice-president-external)
+  - [12. Vice-President Internal](#12-vice-president-internal)
+  - [13. Vice-President Finance](#13-vice-president-finance)
+  - [14. Vice-President Academic](#14-vice-president-academic)
+  - [15. Vice-President Administration](#15-vice-president-administration)
+  - [16. Vice-President Events](#16-vice-president-events)
+  - [17. Vice-President Communications](#17-vice-president-communications)
+  - [18. Vice-President Arts](#18-vice-president-arts)
+  - [19. Vice-President Science](#19-vice-president-science)
+  - [20. Equity Commissioner](#20-equity-commissioner)
+  - [21. Representative of the CSUS](#21-representative-of-the-csus)
+    - [21.1 U1 Representative](#211-u1-representative)
+    - [21.2 Help Desk Representative](#212-help-desk-representative)
+  - [22. Meetings of the Executive Council](#22-meetings-of-the-executive-council)
+  - [23. Powers of Assembly](#23-powers-of-assembly)
+  - [24. Meetings of the General Assembly](#24-meetings-of-the-general-assembly)
+  - [25. Electoral Officer](#25-electoral-officer)
+  - [26. Referenda](#26-referenda)
+  - [27. Impeachment](#27-impeachment)
+- [Part III: Elections](#part-iii-elections)
+  - [28. Eligible Voters, Procedures and Candidates](#28-eligible-voters-procedures-and-candidates)
+  - [29. Filling of Vacancies](#29-filling-of-vacancies)
+  - [30. Terms of Service](#30-terms-of-service)
+  - [31. Order of Succession](#31-order-of-succession)
+- [Part IV: The Constitution](#part-iv-the-constitution)
+  - [32. Superseding Clause](#32-superseding-clause)
+  - [33. Constitutional Amendments](#33-constitutional-amendments)
+  - [34. Coming into Force](#34-coming-into-force)
+- [Part V: Bylaws](#part-v-bylaws)
+  - [A. Bylaw Amendments](#a-bylaw-amendments)
+  - [B Electoral Bylaws](#b-electoral-bylaws)
+    - [B.1 Nomination Rules](#b1-nomination-rules)
+    - [B.2 Campaigning Rules](#b2-campaigning-rules)
+    - [B.3 Balloting Rules](#b3-balloting-rules)
+    - [B.4 Count, Recount and Protests](#b4-count-recount-and-protests)
+    - [B.5 Invalidation](#b5-invalidation)
 
 ## Preamble
 
@@ -60,7 +113,7 @@ The fees for the CSUS will be determined by the SUS and AUS.
 3. Resolutions of the may be adopted in either or both official languages.
 4. Documents may be obtained from the CSUS in any Particular language upon demand. 
 
-# P          art II: Organization of the CSUS
+# Part II: Organization of the CSUS
 
 ## 8. Members of the Executive Council
 
