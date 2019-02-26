@@ -131,6 +131,7 @@ The fees for the CSUS will be determined by the SUS and AUS.
     - the Vice-President Events;
     - the Vice-President Arts;
     - the Vice-President Science;
+    - the Vice-President Helpdesk
     - the Equity Commissioner;
     - the Representatives appointed to the Executive Council.
 2.  Elected members of the Executive Council shall be elected according to the provisions of Part III (Elections).
@@ -359,7 +360,8 @@ The terms of office for all members of the Executive Council shall begin on May 
     - (g) Vice-President Communications;
     - (h) Vice-President Science;
     - (i) Vice-President Arts;
-    - (j) The representatives in order of date of appointment.
+    - (j) Vice-President Helpdesk;
+    - (k) The representatives in order of date of appointment.
 3. By definition, a person is incapacitated when he/she is no longer able to perform the duties as specified in the CSUS’s Constitution, and is unable to continue their mandate.
 4. The C.R.O. is listed, in the event none of the m embers of the Executive Council is able to assume the office of President, shall be the acting President until such time as an election or by-election is held to fill all vacancies as prescribed by the CSUS’s Constitution and Electorate Bylaws.
 
