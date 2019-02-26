@@ -25,25 +25,25 @@
   - [17. Vice-President Communications](#17-vice-president-communications)
   - [18. Vice-President Arts](#18-vice-president-arts)
   - [19. Vice-President Science](#19-vice-president-science)
-  - [21.2 Vice-President Help Desk](#212-vice-president-help-desk)
-  - [20. Equity Commissioner](#20-equity-commissioner)
-  - [21. Representative of the CSUS](#21-representative-of-the-csus)
-    - [21.1 U1 Representative](#211-u1-representative)
-  - [22. Meetings of the Executive Council](#22-meetings-of-the-executive-council)
-  - [23. Powers of Assembly](#23-powers-of-assembly)
-  - [24. Meetings of the General Assembly](#24-meetings-of-the-general-assembly)
-  - [25. Electoral Officer](#25-electoral-officer)
-  - [26. Referenda](#26-referenda)
-  - [27. Impeachment](#27-impeachment)
+  - [20 Vice-President Help Desk](#20-vice-president-help-desk)
+  - [2!. Equity Commissioner](#2-equity-commissioner)
+  - [22. Representative of the CSUS](#22-representative-of-the-csus)
+    - [22.1 U1 Representative](#221-u1-representative)
+  - [23. Meetings of the Executive Council](#23-meetings-of-the-executive-council)
+  - [24. Powers of Assembly](#24-powers-of-assembly)
+  - [25. Meetings of the General Assembly](#25-meetings-of-the-general-assembly)
+  - [26. Electoral Officer](#26-electoral-officer)
+  - [27. Referenda](#27-referenda)
+  - [28. Impeachment](#28-impeachment)
 - [Part III: Elections](#part-iii-elections)
-  - [28. Eligible Voters, Procedures and Candidates](#28-eligible-voters-procedures-and-candidates)
-  - [29. Filling of Vacancies](#29-filling-of-vacancies)
-  - [30. Terms of Service](#30-terms-of-service)
-  - [31. Order of Succession](#31-order-of-succession)
+  - [29. Eligible Voters, Procedures and Candidates](#29-eligible-voters-procedures-and-candidates)
+  - [30. Filling of Vacancies](#30-filling-of-vacancies)
+  - [31. Terms of Service](#31-terms-of-service)
+  - [32. Order of Succession](#32-order-of-succession)
 - [Part IV: The Constitution](#part-iv-the-constitution)
-  - [32. Superseding Clause](#32-superseding-clause)
-  - [33. Constitutional Amendments](#33-constitutional-amendments)
-  - [34. Coming into Force](#34-coming-into-force)
+  - [33. Superseding Clause](#33-superseding-clause)
+  - [34. Constitutional Amendments](#34-constitutional-amendments)
+  - [35. Coming into Force](#35-coming-into-force)
 - [Part V: Bylaws](#part-v-bylaws)
   - [A. Bylaw Amendments](#a-bylaw-amendments)
   - [B Electoral Bylaws](#b-electoral-bylaws)
@@ -249,7 +249,7 @@ The Vice-President Science shall:
 2. Act as a liaison between the SUS and the CSUS;
 3. Promote and represent the interests of constituents in the Faculty of Science. 
 
-## 21.2 Vice-President Help Desk
+## 20 Vice-President Help Desk
 
 The Help Desk Representative shall:
 
@@ -259,7 +259,7 @@ The Help Desk Representative shall:
 4. Obtain and deliver to all tutors who have successfully completed their appointment a letter attesting to the number of hours they have contributed at the end of each academic semester;
 5. Organize and deliver rewards for the tutors to recognize their contribution.
 
-## 20. Equity Commissioner
+## 2!. Equity Commissioner
 
 The Equity Commissioner shall:
 
@@ -273,13 +273,13 @@ nity;
 6. Participate in at least one (1) anti-oppression / equity training or
 workshop.
 
-## 21. Representative of the CSUS
+## 22. Representative of the CSUS
 
 1. The Executive Council may appoint up to twelve (12) representatives to provide representation on the Executive Council of the various constituencies of the CSUS’ members.
 2. The Executive Council must appoint at least one (1) U1 Representative and one (1) Help Desk Representative.
 3. The Executive Council must consider appointing a representative for a certain interest upon receipt of a petition of 10 members of the CSUS. The petition must contain the words, ”We, the undersigned, request the appointment of a representative of CSUS for __ ”. 
 
-### 21.1  U1 Representative
+### 22.1  U1 Representative
 
 The U1 Representative shall:
 
@@ -287,32 +287,32 @@ The U1 Representative shall:
 2. Represent the views of the U1 students at meetings of the Executive Council;
 3. Hold a meeting of the U1 students when necessary.
 
-## 22. Meetings of the Executive Council
+## 23. Meetings of the Executive Council
 
 1.  The CSUS Executive Council shall hold meetings at least once every two weeks while classes are in session.
 2. Quorum for a Regular meeting of the CSUS Executive Council shall be four (4) members.
 3. Each member of the Executive Council shall have a single vote, except for the President who shall only vote to break a tie.
 4. In case of an emergency, the President may call a special meeting at any time, provided that all executives are present, or upon the signing of a waiver of notice by all executives.
 
-## 23. Powers of Assembly
+## 24. Powers of Assembly
 
 1. The General Assembly may make any decision, including the ratification or rejection of any Executive Council decision.
 2. The General Assembly may also impeach a (the) member(s) of the Executive Council as prescribed under Article 27.
 
-## 24. Meetings of the General Assembly
+## 25. Meetings of the General Assembly
 
 1. The General Assembly may be called by a resolution of the Executive Councilor or by a petition signed by at least 50 members of the Society. 
 2. A notice announcing the meeting of the General Assembly shall be posted at least five (5) teaching days prior to the convening of the General Assembly. The notice must be posted in areas where the maximum number of Computer Science students will be able to see.
 3. The Quorum for the General Assembly shall be the lower standard of measure between ten percent (10%) of the members of CSUS or 50 members of the CSUS.
 4. A General Assembly of the CSUS shall be held within twenty (20) school days upon receipt of a petition of 10 members of the CSUS. The petition must contain the words, “We, the undersigned, request a General Assembly of the CSUS”.
 
-## 25. Electoral Officer
+## 26. Electoral Officer
 
 1. The Chief Returning Officer (CRO) shall be responsible for all aspects of the administration of CSUS elections and referenda according to the Electoral bylaws of the CSUS.
 2. The CRO may not be a candidate in any Society election; if she or he wishes to be a candidate for any elected Society position, the CRO shall resign from the position of CRO. The Executive Council shall then elect a new CRO subject to Article 29.
 3. The CRO may be removed from office for dereliction of duties as specified in Article 27.
 
-## 26. Referenda
+## 27. Referenda
 
 1. A Referendum may be initiated by a resolution of the Executive Council or a petition signed by at least twenty percent (20%) of the members of the Society. The requirements for impeachment are described in Article 27.
 2. Notice of the referendum question, voting location and voting hours must be posted no less than six (6) school days before the vote is to take place. All notices must be posted in highly public area, especially areas frequented by CS students.
@@ -321,7 +321,7 @@ The U1 Representative shall:
 5. A simple majority is required to pass a referendum. The requirements for constitutional amendments are stated in Article 33.
 6. The result of a Referendum shall be binding on the Society and take precedence over decisions of the Executive Council and the General Assembly.
 
-## 27. Impeachment
+## 28. Impeachment
 
 1. A member of the Executive Council may be removed by way of referendum initiated by either:
     - two-thirds (2/3) majority vote of the Executive Council;
@@ -330,22 +330,22 @@ The U1 Representative shall:
 
 # Part III: Elections
 
-## 28. Eligible Voters, Procedures and Candidates
+## 29. Eligible Voters, Procedures and Candidates
 
 1. All undergraduate students recognized as being in a program offered by the SOCS at the start time of a ballot are considered to be eligible voters.
 2. The Chief Returning Officer may not be candidate in any election of the CSUS.
 3. Elections for all elected members of the Executive Council shall be held between March 1st and March 31st.
 4. The elections shall be held according to the Bylaws of the CSUS.
 
-## 29.  Filling of Vacancies
+## 30.  Filling of Vacancies
 
 In the event of a vacancy of an elected position on the Executive Council, the Executive Council shall instruct the CRO to hold a by-election according to the Electoral bylaws of the CSUS. 
 
-## 30. Terms of Service
+## 31. Terms of Service
 
 The terms of office for all members of the Executive Council shall begin on May 1st and end on April 30th of the following year.
 
-## 31. Order of Succession
+## 32. Order of Succession
 
 1. For the purpose of continuity, in the case of prolonged absence, illness, resignation, impeachment or death of an executive, the fol- lowing options are available:
     - Another executive may assume the duties;
@@ -367,16 +367,16 @@ The terms of office for all members of the Executive Council shall begin on May 
 
 # Part IV: The Constitution
 
-## 32. Superseding Clause
+## 33. Superseding Clause
 
 This Constitution supersedes and repeals all previous Constitutions of the CSUS.
 
-## 33. Constitutional Amendments
+## 34. Constitutional Amendments
 
 1. The Constitution of the society may only be amended by a referendum in accordance to Article 26 with a majority of two-thirds (2/3) of the members voting in favour.
 2. All amendments of the constitution must be approved by the SUS and AUS in accordance with their procedures for amendments.
 
-## 34. Coming into Force
+## 35. Coming into Force
 
 1. The Constitution shall come into force March 3, 2016.
 
