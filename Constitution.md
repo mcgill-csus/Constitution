@@ -25,7 +25,7 @@
   - [17. Vice-President Communications](#17-vice-president-communications)
   - [18. Vice-President Arts](#18-vice-president-arts)
   - [19. Vice-President Science](#19-vice-president-science)
-    - [21.2 Vice-President Help Desk](#212-vice-president-help-desk)
+  - [21.2 Vice-President Help Desk](#212-vice-president-help-desk)
   - [20. Equity Commissioner](#20-equity-commissioner)
   - [21. Representative of the CSUS](#21-representative-of-the-csus)
     - [21.1 U1 Representative](#211-u1-representative)
@@ -249,7 +249,7 @@ The Vice-President Science shall:
 2. Act as a liaison between the SUS and the CSUS;
 3. Promote and represent the interests of constituents in the Faculty of Science. 
 
-### 21.2 Vice-President Help Desk
+## 21.2 Vice-President Help Desk
 
 The Help Desk Representative shall:
 
