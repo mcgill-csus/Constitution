@@ -25,10 +25,10 @@
   - [17. Vice-President Communications](#17-vice-president-communications)
   - [18. Vice-President Arts](#18-vice-president-arts)
   - [19. Vice-President Science](#19-vice-president-science)
+    - [21.2 Vice-President Help Desk](#212-vice-president-help-desk)
   - [20. Equity Commissioner](#20-equity-commissioner)
   - [21. Representative of the CSUS](#21-representative-of-the-csus)
     - [21.1 U1 Representative](#211-u1-representative)
-    - [21.2 Help Desk Representative](#212-help-desk-representative)
   - [22. Meetings of the Executive Council](#22-meetings-of-the-executive-council)
   - [23. Powers of Assembly](#23-powers-of-assembly)
   - [24. Meetings of the General Assembly](#24-meetings-of-the-general-assembly)
@@ -248,6 +248,16 @@ The Vice-President Science shall:
 2. Act as a liaison between the SUS and the CSUS;
 3. Promote and represent the interests of constituents in the Faculty of Science. 
 
+### 21.2 Vice-President Help Desk
+
+The Help Desk Representative shall:
+
+1. Act as liaison between the Help Desk tutors and the Executive Council;
+2. Find, interview, and appoint tutors to the Help Desk;
+3. Create and maintain the schedule for tutors;
+4. Obtain and deliver to all tutors who have successfully completed their appointment a letter attesting to the number of hours they have contributed at the end of each academic semester;
+5. Organize and deliver rewards for the tutors to recognize their contribution.
+
 ## 20. Equity Commissioner
 
 The Equity Commissioner shall:
@@ -275,16 +285,6 @@ The U1 Representative shall:
 1. Act as liaison between the U1 students and the Executive Council;
 2. Represent the views of the U1 students at meetings of the Executive Council;
 3. Hold a meeting of the U1 students when necessary.
-
-### 21.2 Help Desk Representative
-
-The Help Desk Representative shall:
-
-1. Act as liaison between the Help Desk tutors and the Executive Council;
-2. Find, interview, and appoint tutors to the Help Desk;
-3. Create and maintain the schedule for tutors;
-4. Obtain and deliver to all tutors who have successfully completed their appointment a letter attesting to the number of hours they have contributed at the end of each academic semester;
-5. Organize and deliver rewards for the tutors to recognize their contribution.
 
 ## 22. Meetings of the Executive Council
 
