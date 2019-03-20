@@ -26,7 +26,7 @@
   - [18. Vice-President Arts](#18-vice-president-arts)
   - [19. Vice-President Science](#19-vice-president-science)
   - [20 Vice-President Help Desk](#20-vice-president-help-desk)
-  - [2!. Equity Commissioner](#2-equity-commissioner)
+  - [21. Equity Commissioner](#21-equity-commissioner)
   - [22. Representative of the CSUS](#22-representative-of-the-csus)
     - [22.1 U1 Representative](#221-u1-representative)
   - [23. Meetings of the Executive Council](#23-meetings-of-the-executive-council)
@@ -35,15 +35,19 @@
   - [26. Electoral Officer](#26-electoral-officer)
   - [27. Referenda](#27-referenda)
   - [28. Impeachment](#28-impeachment)
-- [Part III: Elections](#part-iii-elections)
-  - [29. Eligible Voters, Procedures and Candidates](#29-eligible-voters-procedures-and-candidates)
-  - [30. Filling of Vacancies](#30-filling-of-vacancies)
-  - [31. Terms of Service](#31-terms-of-service)
-  - [32. Order of Succession](#32-order-of-succession)
+- [Part III Subcommittees of the CSUS](#part-iii-subcommittees-of-the-csus)
+  - [29. Subcommittee Creations](#29-subcommittee-creations)
+    - [29.1 Subcommittee Criteria](#291-subcommittee-criteria)
+    - [29.1 Subcommittee Creation](#291-subcommittee-creation)
+- [Part IV: Elections](#part-iv-elections)
+  - [30. Eligible Voters, Procedures and Candidates](#30-eligible-voters-procedures-and-candidates)
+  - [31. Filling of Vacancies](#31-filling-of-vacancies)
+  - [32. Terms of Service](#32-terms-of-service)
+  - [33. Order of Succession](#33-order-of-succession)
 - [Part IV: The Constitution](#part-iv-the-constitution)
-  - [33. Superseding Clause](#33-superseding-clause)
-  - [34. Constitutional Amendments](#34-constitutional-amendments)
-  - [35. Coming into Force](#35-coming-into-force)
+  - [34. Superseding Clause](#34-superseding-clause)
+  - [35. Constitutional Amendments](#35-constitutional-amendments)
+  - [36. Coming into Force](#36-coming-into-force)
 - [Part V: Bylaws](#part-v-bylaws)
   - [A. Bylaw Amendments](#a-bylaw-amendments)
   - [B Electoral Bylaws](#b-electoral-bylaws)
@@ -188,6 +192,7 @@ The Vice-President Internal shall:
 2. Maintain and promote relations with other Faculties, Student Associations and administrative bodies of the University (Internal Affairs).
 3. Be responsible for the CSUS’s facilities and equipment.
 4. Direct, support, and coordinate the activities of the Vice-President Events, Vice-President Arts, and Vice-President Science and carry out their duties when they are not able to do so.
+5. Act as chair person and liason to the McGill Women in Computer Science (McWiCS) sub-committee of the CSUS.
 
 ## 13. Vice-President Finance
 
@@ -259,7 +264,7 @@ The Help Desk Representative shall:
 4. Obtain and deliver to all tutors who have successfully completed their appointment a letter attesting to the number of hours they have contributed at the end of each academic semester;
 5. Organize and deliver rewards for the tutors to recognize their contribution.
 
-## 2!. Equity Commissioner
+## 21. Equity Commissioner
 
 The Equity Commissioner shall:
 
@@ -328,24 +333,54 @@ The U1 Representative shall:
     - a petition signed by 100 members of the CSUS.
 2.  The CRO may be relieved of his or her duties by a two-thirds (2/3) vote of the Executive Council.
 
-# Part III: Elections
+# Part III Subcommittees of the CSUS
+Any McGill student group whose mandate is to benefit Computer Science students at McGill and whois eligible to become a subcommittee of the CSUS.
 
-## 29. Eligible Voters, Procedures and Candidates
+## 29. Subcommittee Creations
+
+### 29.1 Subcommittee Criteria
+1. The priamry mandate of a subcommittee of the CSUS must be to benefit Computer Science students at McGill
+2. The executive body of a subcimmmttee of the CSUS must be composed of at least fifty percent (50%) CSUS Constituents.
+
+### 29.1 Subcommittee Creation
+1. The Executive Council must consider adding a subcommittee for a certain interest upon receipt of a petition signed by the executive members of the group. The petition must contain the words, “We, the undersigned, request the addition of a subcommittee of CSUS for ”.
+ 1. After submitting a petition a group can become a subcommittee of CSUS by ⅔ vote of the CSUS Executive Council.
+
+2. Procedure for becoming a subcommittee
+    
+3. Finances
+    1. All subcommittee finances must be kept as a subsection of the CSUS bank account.
+    2. The subcommittee shall prepare a budget to be submitted to the CSUS at the beginning and end of each academic year.
+    3. All subcommittee expenses must be approved by the CSUS Executive Council prior to purchase.
+4. The VP Internal of the CSUS Executive Council will act as the representative of the subcommittee.
+    1. The representative shall
+        1. Attend the meetings of the subcommittee.
+        2. Act as the point of communication for the CSUS Executive Council and members of the subcommittee.
+        3. Coordinate with the VP Finance of the CSUS to manage finances of the subcommittee.
+    2. The representative does not have voting privileges within the subcommittee.
+    3. If the representative for the subcommittee does not fulfill their responsibilities as representative the members of the subcommittee can bring a motion to the CSUS Executive Council for the selection of a new representative.
+5. Procedure for independence
+    1. The Executive Council must consider removing a subcommittee upon receipt of a petition of the executive members of the group with at least a full semester notice. The petition must contain the words, “We, the undersigned, request the removal of a subcommittee of CSUS for ”.
+    2. After submitting a petition a group can become independent of CSUS by ⅔ vote of the CSUS Executive Council.
+
+# Part IV: Elections
+
+## 30. Eligible Voters, Procedures and Candidates
 
 1. All undergraduate students recognized as being in a program offered by the SOCS at the start time of a ballot are considered to be eligible voters.
 2. The Chief Returning Officer may not be candidate in any election of the CSUS.
 3. Elections for all elected members of the Executive Council shall be held between March 1st and March 31st.
 4. The elections shall be held according to the Bylaws of the CSUS.
 
-## 30.  Filling of Vacancies
+## 31.  Filling of Vacancies
 
 In the event of a vacancy of an elected position on the Executive Council, the Executive Council shall instruct the CRO to hold a by-election according to the Electoral bylaws of the CSUS. 
 
-## 31. Terms of Service
+## 32. Terms of Service
 
 The terms of office for all members of the Executive Council shall begin on May 1st and end on April 30th of the following year.
 
-## 32. Order of Succession
+## 33. Order of Succession
 
 1. For the purpose of continuity, in the case of prolonged absence, illness, resignation, impeachment or death of an executive, the fol- lowing options are available:
     - Another executive may assume the duties;
@@ -367,18 +402,18 @@ The terms of office for all members of the Executive Council shall begin on May 
 
 # Part IV: The Constitution
 
-## 33. Superseding Clause
+## 34. Superseding Clause
 
 This Constitution supersedes and repeals all previous Constitutions of the CSUS.
 
-## 34. Constitutional Amendments
+## 35. Constitutional Amendments
 
 1. The Constitution of the society may only be amended by a referendum in accordance to Article 26 with a majority of two-thirds (2/3) of the members voting in favour.
 2. All amendments of the constitution must be approved by the SUS and AUS in accordance with their procedures for amendments.
 
-## 35. Coming into Force
+## 36. Coming into Force
 
-1. The Constitution shall come into force March 3, 2016.
+1. The Constitution shall come into force MM DD, YYYY.
 
 # Part V: Bylaws
 
