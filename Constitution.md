@@ -155,14 +155,10 @@ The fees for the CSUS will be determined by the SUS and AUS.
     - appoint the Chief Returning Officer;
     - appoint the appointed members of the executive council in consultation with any member of CSUS interested in taking part in the selection process;
     - appoint Representatives subject to the procedures described in Article 21 and in consultation with any member of CSUS interested in taking part in the selection process.
-2. Signing powers of the CSUS shall be exercised by the following, any two of whom shall be required for any given transaction:
+2. Signing powers of the CSUS shall be exercised by any two of the following three executives
     - the President;
     - the Vice-President Finance;
-    - the Vice-President External;
     - the Vice-President Internal;
-    - the Vice-President Academic;
-
-    or any three members of the Executive Council who are not representatives.
 
 3. Each member of the Executive Council shall prepare and submit to the Executive Council a year-end report no later than April 14th.
 4. A member of the Executive Council shall cease to remain in office upon acceptance of their letter of resignation, upon their impeachment, or at the end of their term of office. 
@@ -295,7 +291,7 @@ The U1 Representative shall:
 ## 23. Meetings of the Executive Council
 
 1.  The CSUS Executive Council shall hold meetings at least once every two weeks while classes are in session.
-2. Quorum for a Regular meeting of the CSUS Executive Council shall be four (4) members.
+2. Quorum for a Regular meeting of the CSUS Executive Council shall be eight (8) members.
 3. Each member of the Executive Council shall have a single vote, except for the President who shall only vote to break a tie.
 4. In case of an emergency, the President may call a special meeting at any time, provided that all executives are present, or upon the signing of a waiver of notice by all executives.
 
