@@ -382,8 +382,8 @@ The terms of office for all members of the Executive Council shall begin on May 
     - Another executive may assume the duties;
     - A by-election subject to the Election By-laws.
 2. In the event of prolonged absence or illness, resignation, impeachment or death of the President of the CSUS, the order of succession shall be as follows:
-    - (a) Vice-President External;
-    - (b) Vice-President Internal;
+    - (a) Vice-President Internal;
+    - (b) Vice-President External;
     - (c) Vice-President Administration;
     - (d) Vice-President Academic;
     - (e) Vice-President Finance;
