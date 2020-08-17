@@ -54,7 +54,7 @@
     - [B.1 Nomination Rules](#b1-nomination-rules)
     - [B.2 Campaigning Rules](#b2-campaigning-rules)
     - [B.3 Balloting Rules](#b3-balloting-rules)
-    - [B.4 Count, Recount and Protests](#b4-count-recount-and-protests)
+    - [B.4  Count, Recount  and Protests](#b4-count-recount-and-protests)
     - [B.5 Invalidation](#b5-invalidation)
 
 ## Preamble
@@ -310,7 +310,7 @@ The U1 Representative shall:
 ## 26. Electoral Officer
 
 1. The Chief Returning Officer (CRO) shall be responsible for all aspects of the administration of CSUS elections and referenda according to the Electoral bylaws of the CSUS.
-2. The CRO may not be a candidate in any Society election; if she or he wishes to be a candidate for any elected Society position, the CRO shall resign from the position of CRO. The Executive Council shall then elect a new CRO subject to Article 29.
+2. The CRO may not be a candidate in any Society election; if they wishe to be a candidate for any elected Society position, the CRO shall resign from the position of CRO. The Executive Council shall then elect a new CRO subject to Article 29.
 3. The CRO may be removed from office for dereliction of duties as specified in Article 27.
 
 ## 27. Referenda
@@ -393,7 +393,7 @@ The terms of office for all members of the Executive Council shall begin on May 
     - (i) Vice-President Arts;
     - (j) Vice-President Helpdesk;
     - (k) The representatives in order of date of appointment.
-3. By definition, a person is incapacitated when he/she is no longer able to perform the duties as specified in the CSUS’s Constitution, and is unable to continue their mandate.
+3. By definition, a person is incapacitated when they are no longer able to perform the duties as specified in the CSUS’s Constitution, and is unable to continue their mandate.
 4. The C.R.O. is listed, in the event none of the m embers of the Executive Council is able to assume the office of President, shall be the acting President until such time as an election or by-election is held to fill all vacancies as prescribed by the CSUS’s Constitution and Electorate Bylaws.
 
 # Part IV: The Constitution
